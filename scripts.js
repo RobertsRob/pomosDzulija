@@ -187,6 +187,6 @@ function clearIeprV()
     listArMn = [];
     Swal.fire({
         icon: 'info',
-        title: 'Bija attirita atmiņa!',
+        title: 'Bija attīrīta atmiņa!',
         text: 'Bija nospiesta poga!',})
 }
